@@ -1,0 +1,5 @@
+1. Directories are a structural organization method/nesting of folders and have to do with file systems. Files are stored in directories.
+
+2. VCS are useful because they help track the changes you've made over time.
+
+3. I'm not an overly artistic person so I'm not sure I have a favorite medium. If I had to pick one it would be digital editing. 
